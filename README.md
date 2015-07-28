@@ -1,14 +1,13 @@
 # Pikasan
 
-[![Release](https://img.shields.io/github/release/jitpack/android-example.svg?label=maven version)](https://jitpack.io/#jitpack/android-example)
-
+[![Release](https://img.shields.io/github/release/amyu/Pikasan.svg?label=maven version)](https://github.com/amyu/Pikasan)
 
 ##Screenshots
 
 <img src="./sc/sc.png" width="200">
 
 ## Requirements
-Target Sdk Version : 21
+Target Sdk Version : 21  
 Min Sdk Version : 14
 
 ##How to use
@@ -21,7 +20,7 @@ repositories {
 }
 
 dependencies {
-  compile 'hoge.hoge.hoge:1.0'
+  compile 'com.github.amyu:Pikasan:1.0'
 }
 ```
 
