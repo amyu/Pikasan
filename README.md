@@ -1,6 +1,7 @@
 # Pikasan
 
-[![Release](https://img.shields.io/github/release/amyu/Pikasan.svg?label=maven version)](https://github.com/amyu/Pikasan)
+[![Release](https://img.shields.io/github/release/amyu/Pikasan.svg?label=maven version)](https://github.com/amyu/Pikasan)  
+This project is made without the use of image files
 
 ##Screenshots
 
