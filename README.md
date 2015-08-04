@@ -25,7 +25,7 @@ dependencies {
 }
 ```
 
-2) Add
+2) Add ```com.list.view.amyu.pikasan.PikasanView```
 ```java
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
